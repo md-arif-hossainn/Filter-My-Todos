@@ -25,4 +25,9 @@ selected userId and show the filtered list in recyclerview.</br>
 -Spinner</br>
 
 # Screenshot this application
+<p float="left" >
+<img src ="https://user-images.githubusercontent.com/59121881/199546442-bf39cc58-2b1e-410c-9637-ee3e7eca8d39.jpg" width="200" />
+<img src ="https://user-images.githubusercontent.com/59121881/199546473-84e846cd-831d-48e5-a83c-62acc3583fea.jpg" width="200" />
+<img src ="https://user-images.githubusercontent.com/59121881/199546487-f22d71b0-9102-4618-baff-49b568ea1bfd.jpg" width="200" />
+</p>
 
